@@ -11,11 +11,12 @@
 - unordered2
 - unordered3
 
-`extern void main();
+```
+extern void main();
 {
   return;
 }
-`
+```
 
 ---
 
