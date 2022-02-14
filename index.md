@@ -2,18 +2,22 @@
 ## Heading level2
 ### Heading level3
 
-1. first item
-2. second item
-3. third item
-  1. forth item, indented
-  2. adsf
+*this is italic*
 
-- unordered list1
-- unordered list2
-* asdf
-* qwerqwer
-+ qwerqwerqwer
-+ iuiouasdfiouasifuoasdf
+**this is bold**
 
-> This is supposed to be a block quote
+
+- unordered1
+- unordered2
+- unordered3
+
+`extern void main();
+{
+  return;
+}
+`
+
+---
+
+This is some more text
 
